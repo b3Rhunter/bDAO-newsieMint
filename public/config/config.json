@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xe2646cB7ef0443a41b0a7A6d9F542BDe2503d973",
+  "SCAN_LINK": "https://etherscan.io/token/0xe2646cb7ef0443a41b0a7a6d9f542bde2503d973",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Newsies",
+  "SYMBOL": "NEWSIE",
+  "MAX_SUPPLY": 1436,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gmn-newsies",
+  "SHOW_BACKGROUND": true
+}
